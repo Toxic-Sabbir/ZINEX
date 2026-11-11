@@ -1,0 +1,4 @@
+.git
+.gitignore
+serve.sh
+**/.DS_Store
