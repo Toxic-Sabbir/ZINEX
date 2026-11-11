@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Serve the Coco AI mirror locally with its mock backend.
+# Serve the ZINEX Ai mirror locally with its mock backend.
 # Usage: ./serve.sh [port]   (default port: 12000)
 set -euo pipefail
 PORT="${1:-12000}"

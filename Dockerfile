@@ -1,4 +1,4 @@
-# Local mirror of the Coco AI frontend plus a self-contained mock backend.
+# Local mirror of the ZINEX Ai frontend plus a self-contained mock backend.
 #
 # The image serves the mirrored static site AND emulates the Firebase Auth /
 # Realtime Database and /api endpoints the frontend expects, so registration,
