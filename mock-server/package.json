@@ -1,0 +1,13 @@
+{
+  "name": "coco-mock-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local mock of the Firebase Auth/REST + Realtime Database + /api endpoints used by the Coco AI clone.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

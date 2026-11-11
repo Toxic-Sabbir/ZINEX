@@ -1,4 +1,4 @@
 .git
 .gitignore
-serve.sh
 **/.DS_Store
+mock-server/node_modules
